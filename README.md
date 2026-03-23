@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Project Overview  
-This project focuses on analyzing **digital payment transaction data from PhonePe** using Advanced Excel to uncover **usage patterns, regional performance, and growth trends.  
+This project focuses on analyzing digital payment transaction data from PhonePe using Advanced Excel to uncover usage patterns, regional performance, and growth trends.  
 
 The dataset was cleaned and processed using Excel, and insights were visualized through **pivot tables, charts, and dashboards to make the analysis interactive and easy to interpret.
 
